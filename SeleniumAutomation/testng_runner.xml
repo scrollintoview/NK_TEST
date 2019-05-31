@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MDAS REGRESSION TEST" verbose="2">
+    <test name="REGRESSION">
+       <groups>
+       <run>
+       <include name = "REGRESSION"/>
+       </run>
+       </groups>
+       <!--
+        <classes>
+                 	           
+            <class name="ValidateSectorFeatures">
+            </class>
+			
+        </classes>
+         -->
+    </test>
+</suite>
+
+
+ 

@@ -1,0 +1,212 @@
+There was an error managing chromedriver  (null) ... trying again forcing to use cache
+java.lang.NullPointerException
+	at io.github.bonigarcia.wdm.WebDriverManager.getDefaultBrowserVersion(WebDriverManager.java:958)
+	at io.github.bonigarcia.wdm.ChromeDriverManager.getBrowserVersion(ChromeDriverManager.java:68)
+	at io.github.bonigarcia.wdm.WebDriverManager.getVersionForInstalledBrowser(WebDriverManager.java:477)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:430)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:229)
+	at com.MDAS.SeleniumFramework.utilities.Driver.getDriver(Driver.java:24)
+	at com.MDAS.SeleniumFramework.utilities.TestBase.setupMethod(TestBase.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:653)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:207)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:178)
+There was an error managing chromedriver  (null)
+java.lang.NullPointerException
+	at io.github.bonigarcia.wdm.WebDriverManager.getDefaultBrowserVersion(WebDriverManager.java:958)
+	at io.github.bonigarcia.wdm.ChromeDriverManager.getBrowserVersion(ChromeDriverManager.java:68)
+	at io.github.bonigarcia.wdm.WebDriverManager.getVersionForInstalledBrowser(WebDriverManager.java:477)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:430)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:520)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:471)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:229)
+	at com.MDAS.SeleniumFramework.utilities.Driver.getDriver(Driver.java:24)
+	at com.MDAS.SeleniumFramework.utilities.TestBase.setupMethod(TestBase.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:653)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:207)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:178)
+There was an error managing chromedriver  (null) ... trying again forcing to use cache
+java.lang.NullPointerException
+	at io.github.bonigarcia.wdm.WebDriverManager.getDefaultBrowserVersion(WebDriverManager.java:958)
+	at io.github.bonigarcia.wdm.ChromeDriverManager.getBrowserVersion(ChromeDriverManager.java:68)
+	at io.github.bonigarcia.wdm.WebDriverManager.getVersionForInstalledBrowser(WebDriverManager.java:477)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:430)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:229)
+	at com.MDAS.SeleniumFramework.utilities.Driver.getDriver(Driver.java:24)
+	at com.MDAS.SeleniumFramework.utilities.TestBase.setupMethod(TestBase.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:653)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:207)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:178)
+There was an error managing chromedriver  (null)
+java.lang.NullPointerException
+	at io.github.bonigarcia.wdm.WebDriverManager.getDefaultBrowserVersion(WebDriverManager.java:958)
+	at io.github.bonigarcia.wdm.ChromeDriverManager.getBrowserVersion(ChromeDriverManager.java:68)
+	at io.github.bonigarcia.wdm.WebDriverManager.getVersionForInstalledBrowser(WebDriverManager.java:477)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:430)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:520)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:471)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:229)
+	at com.MDAS.SeleniumFramework.utilities.Driver.getDriver(Driver.java:24)
+	at com.MDAS.SeleniumFramework.utilities.TestBase.setupMethod(TestBase.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:653)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:207)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:178)
+Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+Downloading https://chromedriver.storage.googleapis.com/2.46/chromedriver_win32.zip
+Extracting binary from compressed file chromedriver_win32.zip
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Network not available. Forcing the use of cache
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Network not available. Forcing the use of cache
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+Downloading https://chromedriver.storage.googleapis.com/2.46/chromedriver_win32.zip
+Extracting binary from compressed file chromedriver_win32.zip
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe
+Exporting webdriver.chrome.driver as C:\Users\Bipin\.m2\repository\webdriver\chromedriver\win32\2.46\chromedriver.exe

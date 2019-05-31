@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="2" name="Failed suite [MDAS REGRESSION TEST]">
+  <test name="REGRESSION(failed)">
+    <classes>
+      <class name="tests.ValidateChart">
+        <methods>
+          <include name="validateClassificationsAndVisualizations"/>
+        </methods>
+      </class> <!-- tests.ValidateChart -->
+    </classes>
+  </test> <!-- REGRESSION(failed) -->
+</suite> <!-- Failed suite [MDAS REGRESSION TEST] -->
