@@ -6,14 +6,15 @@
        <include name = "REGRESSION"/>
        </run>
        </groups>
-       <!--
-        <classes>
-                 	           
-            <class name="ValidateSectorFeatures">
+       <classes>
+            <class name="com.MDAS.SeleniumFramework.tests.ValidateSectorFeatures">
             </class>
-			
-        </classes>
-         -->
+            <class name="com.MDAS.SeleniumFramework.tests.ValidateCompanyFeatures">
+            </class>
+            <class name="com.MDAS.SeleniumFramework.tests.ValidateTrainingDataFeatures">
+            </class>
+	    </classes>
+       
     </test>
 </suite>
 
