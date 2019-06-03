@@ -22,7 +22,7 @@ import com.MDAS.SeleniumFramework.utilities.TestBase;
 public class ValidateDataPull extends TestBase{
 	
 	// WebDriver driver;
-	
+	//Sub
 //	@BeforeTest(description= "Navigate to the application")
 //	public void invokeApplication(){
 //		driver= BrowserUtility.openApplication("http://localhost:4200/home");
